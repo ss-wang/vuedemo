@@ -1,5 +1,5 @@
 <template>
-  <h1>搜索页面</h1>
+  <h1>商品列表</h1>
 </template>
 
 <script>

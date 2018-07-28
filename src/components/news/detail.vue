@@ -1,5 +1,5 @@
 <template>
-  <h1>搜索页面</h1>
+  <h1>新闻详情</h1>
 </template>
 
 <script>
